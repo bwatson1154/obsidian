@@ -212,12 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Coulomb's law.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Coulomb's law"
             }
           },
           {
