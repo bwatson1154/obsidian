@@ -1,0 +1,3 @@
+- The electromagnetic force is the second strongest of the four fundamental forces
+- Its strength is on the order of $10^{-2}$ that of the strong nuclear force
+- It is the dominant force in *microscopic systems*, such as atoms and molecules

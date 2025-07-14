@@ -1,0 +1,3 @@
+- The weak-interaction force is the third strongest of the four fundamental forces
+- Its strength is on the order of $10^{-14}$ that of the strong nuclear force
+- Its primary role is in interactions involving certain radioactive elementary particles

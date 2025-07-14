@@ -1,0 +1,3 @@
+- The gravitational force is the weakest of the four fundamental forces
+- Its strength is on the order of $10^{-41}$ that of the strong nuclear force
+- It is typically the dominant force in *macroscopic systems*, such as solar systems

@@ -1,0 +1,2 @@
+- The strong nuclear force is the strongest of the four fundamental forces
+- Its range is limited to *subatomic scales*, such as within a nucleus
