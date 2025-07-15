@@ -7,6 +7,8 @@ $$\varepsilon_{0}=8.854\times 10^{-12} \text{ farad per meter (F/m).}$$
 For other mediums, the permittivity of free space $\varepsilon_{0}$ is replaced by $\varepsilon$, where $\varepsilon$ is the permittivity of the material in which the electric field is measured. Often, $\varepsilon$ is expressed in the form
 $$\varepsilon=\varepsilon_{\text{r}}\varepsilon_{0}\text{ (F/m)}$$
 where $\varepsilon_{\text{r}}$ is a dimensionless quantity called the *relative permittivity* or *dielectric constant* of the material.
+
+The parameters of electrical permittivity $\varepsilon$, [[magnetic permeability]] $\mu$, and [[conductivity]] $\sigma$ are often referred to as the *constitutive parameters* of a material. A medium is said to be *homogeneous* if its constitutive parameters are constant throughout the medium.
 ## Relative permittivity of common materials
 
 | Material        | Relative Permattivity $\varepsilon_{\text{r}}$ |

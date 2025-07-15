@@ -1,0 +1,2 @@
+The velocity of light in free space $c$ is specified by the product of the [[electrical permittivity]] of free space and the [[magnetic permeability]] of free space:
+$$c=\dfrac{1}{\sqrt{ \mu_{0}\varepsilon_{0} }}=3\times 10^8 \quad \text{(m/s)}.$$

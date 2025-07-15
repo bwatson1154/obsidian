@@ -1,1 +1,3 @@
-The magnetic force is the force applied primarily to moving charged particles and current-carrying conductors in the presence of a [[magnetic field]].
+The magnetic force is the force applied primarily to moving charged particles and current-carrying conductors in the presence of a [[magnetic field]], and is one of two parts of the [[electromagnetic force]].
+
+In a similar manner to the [[electric force]], a charge $q'$ residing in the presence of a [[magnetic flux density]] $\mathbf{B}$ will experience a *magnetic force* $\mathbf{F}_{\text{m}}$, but only if the charge is in motion and its velocity $\mathbf{u}$ is in a direction not parallel (or anti-parallel) to $\mathbf{B}$. In fact, $\mathbf{F}_{\text{m}}$ points in a direction perpendicular to both $\mathbf{B}$ and $\mathbf{u}$.
