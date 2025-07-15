@@ -1,0 +1,1 @@
+The electric force is the force that exists between [[electric charge|electric charges]], and is one of the two parts of the [[electromagnetic force]]. The force is described in detail by [[Coulomb's law]]. It is typically denoted by $\mathbf{F}_{\text{e}}$.

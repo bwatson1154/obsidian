@@ -1,7 +1,6 @@
-Fields induced by electric charges behave in different ways in different
-mediums, such as through a vacuum, or through metal. This difference in behavior is due to electric charges polarizing the atoms making up different materials, causing each atom to gain an [[electric dipole]] moment.
+[[electric field|Fields]] induced by [[electric charge|electric charges]] behave in different ways in different mediums, such as through a vacuum, or through metal. This difference in behavior is due to electric charges polarizing the atoms making up different materials, causing each atom to gain an [[electric dipole]] moment.
 
-To account for the effects from fields induced by the dipole behavior of different materials, physicists introduced the concept of electrical permittivity. Electrical permittivity is a quantity that represents how much a given medium that electric charges pass through impedes the electric field.
+To account for the effects from fields induced by the dipole behavior of different materials, physicists introduced the concept of electrical permittivity. Electrical permittivity is a quantity that represents how much a given medium impedes the electric field.
 
 In a vacuum, a universal constant called the *electrical permittivity of free space* is used. The value of the electrical permittivity of free space is defined
 $$\varepsilon_{0}=8.854\times 10^{-12} \text{ farad per meter (F/m).}$$
