@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26843115bb512103",
+        "id": "c7894c7a9f0c553e",
         "type": "tabs",
         "children": [
           {
-            "id": "579beb2a717b4522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "electromagnetic force.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "electromagnetic force"
-            }
-          },
-          {
-            "id": "619bde4414cd94e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "weak-interaction force.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "weak-interaction force"
-            }
-          },
-          {
-            "id": "a0b483370136d583",
+            "id": "c2c35b9c0cc7e312",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,49 +22,77 @@
             }
           },
           {
-            "id": "8e75e6d06f2f552c",
+            "id": "dc69ecfc58d5e26f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gravitational force.md",
+                "file": "principle of linear superposition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gravitational force"
+              "title": "principle of linear superposition"
             }
           },
           {
-            "id": "b6bd968f7e71b1f1",
+            "id": "14b7da54bcec291a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "four fundamental forces.md",
+                "file": "electromagnetic force.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "four fundamental forces"
+              "title": "electromagnetic force"
             }
           },
           {
-            "id": "121577d89c885fe2",
+            "id": "17b569080ab11395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strong nuclear force.md",
+                "file": "Coulomb's law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strong nuclear force"
+              "title": "Coulomb's law"
+            }
+          },
+          {
+            "id": "b03a2ecc27672a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "electric dipole.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "electric dipole"
+            }
+          },
+          {
+            "id": "a797926c7fdbcd69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "magnetic permeability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "magnetic permeability"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,13 +212,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coulomb's law.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Coulomb's law"
+              "title": "Outline"
             }
           },
           {
@@ -249,14 +248,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2f2f543b0e25314",
+  "active": "17b569080ab11395",
   "lastOpenFiles": [
-    "weak-interaction force.md",
-    "Coulomb's law.md",
+    "electric charge.md",
     "electromagnetic force.md",
+    "electrical permittivity.md",
+    "electric dipole.md",
+    "principle of linear superposition.md",
+    "Coulomb's law.md",
+    "magnetic permeability.md",
+    "law of conservation of electric charge.md",
     "strong nuclear force.md",
-    "four fundamental forces.md",
+    "weak-interaction force.md",
     "gravitational force.md",
+    "four fundamental forces.md",
     "Electromagnetics",
     "Welcome.md"
   ]

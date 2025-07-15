@@ -1,0 +1,1 @@
+The law of conservation of electric charge states that the net electric charge can neither be created nor destroyed.
