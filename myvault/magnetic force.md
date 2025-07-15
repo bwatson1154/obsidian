@@ -1,0 +1,1 @@
+The magnetic force is the force applied primarily to moving charged particles and current-carrying conductors in the presence of a [[magnetic field]].

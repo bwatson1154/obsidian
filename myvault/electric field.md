@@ -3,3 +3,5 @@ $$\mathbf{E}=\mathbf{\hat{R}} \frac{q}{4\pi\varepsilon_{0}R^2}\quad \text{(V/m)}
 where $R$ is the distance between the charge and the observation point, and $\mathbf{\hat{R}}$ is the radial unit vector pointing away from the charge.
 
 If any point charge $q'$ is present in an electric field $\mathbf{E}$, the point charge will experience an [[electric force]] acting on it equal to $\mathbf{F}_{\text{e}}=q'\mathbf{E}$.
+
+The quantities of the electric field $\mathbf{E}$ and the [[electric flux density]] $\mathbf{D}$ constitute one of two fundamental pairs of electromagnetic fields.

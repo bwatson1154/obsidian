@@ -7,3 +7,29 @@ $$\varepsilon_{0}=8.854\times 10^{-12} \text{ farad per meter (F/m).}$$
 For other mediums, the permittivity of free space $\varepsilon_{0}$ is replaced by $\varepsilon$, where $\varepsilon$ is the permittivity of the material in which the electric field is measured. Often, $\varepsilon$ is expressed in the form
 $$\varepsilon=\varepsilon_{\text{r}}\varepsilon_{0}\text{ (F/m)}$$
 where $\varepsilon_{\text{r}}$ is a dimensionless quantity called the *relative permittivity* or *dielectric constant* of the material.
+## Relative permittivity of common materials
+
+| Material        | Relative Permattivity $\varepsilon_{\text{r}}$ |
+| --------------- | ---------------------------------------------- |
+| Vacuum          | 1                                              |
+| Air (ASL)       | 1.0006                                         |
+| Styrofoam       | 1.03                                           |
+| Teflon          | 2.1                                            |
+| Petroleum oil   | 2.1                                            |
+| Wood (dry)      | 1.5-4                                          |
+| Paraffin        | 2.2                                            |
+| Polyethylene    | 2.25                                           |
+| Polystyrene     | 2.6                                            |
+| Paper           | 2-4                                            |
+| Rubber          | 2.2-4.1                                        |
+| Dry soil        | 2.5-3.5                                        |
+| Plexiglass      | 3.4                                            |
+| Glass           | 4.5-10                                         |
+| Quartz          | 3.8-5                                          |
+| Bakelite        | 5                                              |
+| Porcelain       | 5.7                                            |
+| Formica         | 6                                              |
+| Mica            | 5.4-6                                          |
+| Ammonia         | 22                                             |
+| Seawater        | 72-80                                          |
+| Distilled water | 81                                             |

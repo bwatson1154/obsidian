@@ -8,31 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2969d25a2aebd66d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coulomb's law.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Coulomb's law"
-            }
-          },
-          {
             "id": "a2431a075853ed75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "electric charge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "electric charge"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -48,9 +30,92 @@
               "icon": "lucide-file",
               "title": "electrical permittivity"
             }
+          },
+          {
+            "id": "b22504593f1fb710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "magnetism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "magnetism"
+            }
+          },
+          {
+            "id": "bf0a06f4f7141f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "magnetic force.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "magnetic force"
+            }
+          },
+          {
+            "id": "a0cd0e96ba0ca77e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "magnetic flux density.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "magnetic flux density"
+            }
+          },
+          {
+            "id": "b27581c4222224fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "electric flux density.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "electric flux density"
+            }
+          },
+          {
+            "id": "35c2738feb35bd5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "electric field.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "electric field"
+            }
+          },
+          {
+            "id": "87a05e8f320875a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "electric force.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "electric force"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,14 +271,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "259fcff4219d7e8e",
+  "active": "d2f2f543b0e25314",
   "lastOpenFiles": [
+    "magnetic force.md",
+    "magnetism.md",
+    "magnetic flux density.md",
+    "electric force.md",
+    "electrical permittivity.md",
+    "electric field.md",
+    "electric flux density.md",
+    "electric charge.md",
     "electric dipole.md",
     "principle of linear superposition.md",
     "law of conservation of electric charge.md",
-    "electric charge.md",
-    "electric field.md",
-    "electric force.md",
     "electromagnetic force.md",
     "Coulomb's law.md",
     "weak-interaction force.md",
@@ -221,7 +291,6 @@
     "magnetic permeability.md",
     "gravitational force.md",
     "four fundamental forces.md",
-    "electrical permittivity.md",
     "Electromagnetics",
     "Welcome.md"
   ]
